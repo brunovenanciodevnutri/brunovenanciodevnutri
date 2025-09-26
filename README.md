@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bruno!
+<h1>👋 Hi, I'm Bruno!</h1>
 
 ## Tecnologias e ferramentas
 
