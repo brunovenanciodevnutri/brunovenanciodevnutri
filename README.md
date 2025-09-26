@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Bruno!
+# 👋 Hi, I'm Bruno!
 
 ## Tecnologias e ferramentas
 
