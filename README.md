@@ -6,8 +6,8 @@
         <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-          <img height="30" width="40" src="https://camo.githubusercontent.com/ebe0d1c7160f3845c251ae204ba90b58c8106a0a0e31abc61405c7359e00ca38/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" />
-          <img height="30" width="40" src="https://camo.githubusercontent.com/693dc250d1c982bee56e759187ec3612558051fc57b8ea31146d6138871357aa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f637373332f637373332d6f726967696e616c2e737667" />
+          <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
         </div>
     </div>
